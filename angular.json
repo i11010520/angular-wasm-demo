@@ -28,7 +28,7 @@
             "index": "projects/demo2/src/index.html",
             "browser": "projects/demo2/src/main.ts",
             "polyfills": [
-              "./projects/demo2/src/polyfills.ts"
+              "projects/demo2/src/polyfills.ts"
             ],
             "tsConfig": "projects/demo2/tsconfig.app.json",
             "inlineStyleLanguage": "scss",

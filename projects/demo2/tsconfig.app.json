@@ -13,6 +13,7 @@
     "src/main.ts"
   ],
   "include": [
+    "src/polyfills.ts",
     "../../f.stub.ts",
     "src/**/*.d.ts"
   ]
